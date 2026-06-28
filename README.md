@@ -85,10 +85,10 @@ Where $w_1 = 0.4$ (Local Linguistic Complexity) and $w_2 = 0.6$ (Groq LLM Stylis
 ### Handling Uncertainty & Calibration
 - **Likely AI ($P_{\text{AI}} \ge 0.80$)**:
   $$C = P_{\text{AI}}$$
-  *(Confidence ranges from $80\%$ to $100\%$)*
+  *(Confidence ranges from $$80\%$$ to $$100\%$$)*
 - **Likely Human ($P_{\text{AI}} \le 0.20$)**:
   $$C = 1.0 - P_{\text{AI}}$$
-  *(Confidence ranges from $80\%$ to $100\%$)*
+  *(Confidence ranges from $$80\%$$ to $$100\%$$)*
 - **Uncertain ($0.20 < P_{\text{AI}} < 0.80$)**:
   $$C = 1.0 - \frac{|P_{\text{AI}} - 0.50|}{0.30}$$
   *(Confidence represents the degree of ambiguity, where $0.50$ yields $1.0$ (100% uncertain/mixed) and the outer boundaries $0.21$ and $0.79$ yield approximately $0.03$ uncertainty confidence).*
