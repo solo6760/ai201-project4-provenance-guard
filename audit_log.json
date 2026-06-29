@@ -30,10 +30,10 @@
     "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 51%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
     "status": "under_review",
     "appeal": {
-      "appeal_id": "629e8e25-b298-4879-a959-0b7f2c8b29bc",
+      "appeal_id": "2ce87a12-b9d7-4bec-a478-4d4f3c792982",
       "reasoning": "I wrote this myself from personal experience. I am a non-native English speaker and my writing style may appear more formal than typical.",
       "creator_reasoning": "I wrote this myself from personal experience. I am a non-native English speaker and my writing style may appear more formal than typical.",
-      "created_at": "2026-06-28T21:57:30.502Z"
+      "created_at": "2026-06-29T19:14:24.071Z"
     }
   },
   {
@@ -193,6 +193,214 @@
       "llm_stylistic": 0.2
     },
     "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "d1a25396-8fd0-4050-9bc4-1df5d37bc22b",
+    "submission_id": "d1a25396-8fd0-4050-9bc4-1df5d37bc22b",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-29T19:10:31.803Z",
+    "attribution": "uncertain",
+    "confidence": 0.51,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.58,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 51%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "436eb3cd-419f-4324-a514-ee41376efc5f",
+    "submission_id": "436eb3cd-419f-4324-a514-ee41376efc5f",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:43.984Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "355fbf45-22f4-4883-896a-a687600b8a2d",
+    "submission_id": "355fbf45-22f4-4883-896a-a687600b8a2d",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:44.393Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "32cfb875-8045-43fd-89f7-67ad9e4cce7d",
+    "submission_id": "32cfb875-8045-43fd-89f7-67ad9e4cce7d",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:44.728Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "36d5e699-629c-461c-87d4-27848a6ac40c",
+    "submission_id": "36d5e699-629c-461c-87d4-27848a6ac40c",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:44.867Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "698da2fd-00aa-407e-b638-8de777112988",
+    "submission_id": "698da2fd-00aa-407e-b638-8de777112988",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:45.000Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "27851cb0-825d-4ffc-87e8-3ef8452ce46b",
+    "submission_id": "27851cb0-825d-4ffc-87e8-3ef8452ce46b",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:45.150Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "3dc438c7-4fc5-4167-b72d-f38e66bde613",
+    "submission_id": "3dc438c7-4fc5-4167-b72d-f38e66bde613",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:45.412Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "03531bd1-1257-45c2-b2d9-de797d3a01ee",
+    "submission_id": "03531bd1-1257-45c2-b2d9-de797d3a01ee",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:45.603Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "3b86a4c9-ac73-46b8-9d31-9a9edb20653b",
+    "submission_id": "3b86a4c9-ac73-46b8-9d31-9a9edb20653b",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:45.800Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "944aef18-e1eb-4c48-a0b2-e53002430ed8",
+    "submission_id": "944aef18-e1eb-4c48-a0b2-e53002430ed8",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-29T19:11:45.964Z",
+    "attribution": "uncertain",
+    "confidence": 0.4,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.5,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 40%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "680fcd96-7927-46c8-8477-2c8ba50820d1",
+    "submission_id": "680fcd96-7927-46c8-8477-2c8ba50820d1",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-29T19:14:54.495Z",
+    "attribution": "uncertain",
+    "confidence": 0.51,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.58,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 51%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
+    "status": "classified",
+    "appeal": null
+  },
+  {
+    "content_id": "61afd186-819c-4fa8-a1de-a36d0b209aa6",
+    "submission_id": "61afd186-819c-4fa8-a1de-a36d0b209aa6",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-29T19:15:39.020Z",
+    "attribution": "uncertain",
+    "confidence": 0.51,
+    "llm_score": 0.2,
+    "signals": {
+      "local_complexity": 0.58,
+      "llm_stylistic": 0.2
+    },
+    "label": "Mixed or Uncertain: Our analysis is unable to definitively attribute this content (uncertainty index 51%). It exhibits a blend of natural human style and structured machine patterns. This could indicate human text that has been heavily AI-edited, or AI text designed to mimic human writing.",
     "status": "classified",
     "appeal": null
   }
