@@ -31,7 +31,6 @@ def run_tests():
     print("=== Provenance Guard Scoring Calibration Test ===")
     for label, text in TEST_INPUTS.items():
         s2 = calculate_linguistic_complexity(text)
-        # S1 (Groq) is simulated as None for local CLI test to test fallback logic
         p_ai_fallback, attr_fallback, conf_fallback = combine_signals_and_calibrate(None, s2)
         
         print(f"\nInput: {label}")

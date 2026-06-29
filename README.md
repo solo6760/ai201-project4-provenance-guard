@@ -1,6 +1,6 @@
 # Provenance Guard
 
-Provenance Guard is an advanced content attribution system designed to detect machine-generated text. It leverages a hybrid approach combining **local linguistic heuristics** (sentence length variance and Type-Token Ratio) with **LLM-guided stylistic probability** (analyzed via a zero-temperature Llama 3 query on Groq) to assign content to one of three confidence bands and display a corresponding reader-friendly transparency label.
+Provenance Guard is an advanced content attribution system designed to detect machine-generated text. It leverages a hybrid approach combining local linguistic heuristics (sentence length variance and Type-Token Ratio) with LLM-guided stylistic probability (analyzed via a zero-temperature Llama 3 query on Groq) to assign content to one of three confidence bands and display a corresponding reader-friendly transparency label.
 
 ---
 
